@@ -14,8 +14,10 @@
   <packaging>pom</packaging>
   <modules>
     <module>doodle-gateway-bom</module>
+    <module>doodle-gateway-client</module>
     <module>doodle-gateway-server</module>
     <module>doodle-gateway-server-core</module>
+    <module>doodle-starter-gateway-client</module>
     <module>doodle-starter-gateway-server</module>
   </modules>
 </project>

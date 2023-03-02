@@ -10,14 +10,14 @@
     <version>0.0.1-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
-  <artifactId>doodle-starter-gateway-server</artifactId>
+  <artifactId>doodle-starter-gateway-client</artifactId>
   <properties>
     <spotless.skip>false</spotless.skip>
   </properties>
   <dependencies>
     <dependency>
       <groupId>org.doodle</groupId>
-      <artifactId>doodle-gateway-server-core</artifactId>
+      <artifactId>doodle-gateway-client</artifactId>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
